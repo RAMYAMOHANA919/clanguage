@@ -19,4 +19,4 @@ int main()
                  {3,4}};
     addarray(a,b);
     return 0;
-}multidimentional array
+}
